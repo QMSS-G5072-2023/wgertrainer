@@ -8,6 +8,12 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+requests = "^2.31.0"
+pandas = "^2.1.4"
+sphinx = "^7.2.6"
+myst-nb = "^1.0.0"
+sphinx-autoapi = "^3.0.0"
+sphinx-rtd-theme = "^2.0.0"
 
 [tool.poetry.dev-dependencies]
 
